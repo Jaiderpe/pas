@@ -1,10 +1,10 @@
-# FILTRO FINAL TIENDA DE ROPAS 
+# INICIACION DE CSS Y ESTILOS CON IMAGENES
 
-_Es una tienda virtual que cumple con  las caracteristcas principal para la compra de ropa esclusiva para uso personal_
+_una pagina para ver el tamño de las imagenes y sua linacion_
 
 ## Dando inicio  🚀
 
-_Estas instrucciones para un diseño acoplado para el uso del sitio web _
+_Al aprendisaje basico de css_
 
 
 ## Ejecutando las pruebas ⚙️
@@ -14,7 +14,7 @@ _En base de evaluación y registro de pruebas final para verificación del uso d
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Con diseño response._
+_con base al estil de la pagina_
 
 ```
 Da un ejemplo
@@ -31,7 +31,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Contribuyendo 🖇️
 
-compañero de clase Érick aria 
+Trainer jholver
 
 
 ## Autores ✒️
@@ -39,6 +39,6 @@ compañero de clase Érick aria
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Jaider adrián Pérez vega ** 
-* **Érick arias ** 
+
 
 
